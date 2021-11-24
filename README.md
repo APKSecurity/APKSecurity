@@ -10,3 +10,4 @@
 - https://github.com/Simp1er/AndroidSec
 - https://github.com/mamenglong/ADBWIFIDEBUG
 - https://github.com/plain-dev/ADBWiFi
+- https://github.com/feicong/jni_helper
