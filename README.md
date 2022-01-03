@@ -14,3 +14,4 @@
 - https://github.com/heyhu/AndroidReverseStudy
 - https://github.com/facebook/mariana-trench
 - https://github.com/niranjan94/show-java
+- https://github.com/kenny67/AndroidReverseEngineering
