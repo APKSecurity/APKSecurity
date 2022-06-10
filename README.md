@@ -2,7 +2,7 @@
 
 本项目是记录自己在学习Adnroid移动安全领域遇到的内容，包括优秀的项目或代码等。
 
-本项目创建于2021年7月17日，最近的一次更新时间为2022年5月30日。
+本项目创建于2021年7月17日，最近的一次更新时间为2022年6月8日。
 
 - https://github.com/Ralireza/Android-Security-Teryaagh
 - https://github.com/Simp1er/AndroidSec
@@ -33,3 +33,4 @@
 - https://www.freebuf.com/articles/es/329563.html
 - https://github.com/Mocha-L/QuJing
 - https://github.com/maddiestone/AndroidAppRE
+- https://github.com/dingxiangtech/dx-signer
