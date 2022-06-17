@@ -23,11 +23,13 @@
 
 四、Android专利文献
 
-五、Android论坛版块
+五、Android国家标准
 
-六、Android漏洞程序
+六、Android论坛版块
 
-七、Android其他资源
+七、Android漏洞程序
+
+八、Android其他资源
 - [ ] https://github.com/Ralireza/Android-Security-Teryaagh
 - [ ] https://github.com/Simp1er/AndroidSec
 - [ ] https://github.com/mamenglong/ADBWIFIDEBUG
@@ -62,13 +64,13 @@
 
 ## 02-Adnroid安全测试
 
-一、绿盟Android安全测试指南
+一、测试项目汇总
 
-二、奇安信Android安全测试指南
-
-三、知道创宇Android安全测试指南
-
-四、平安科技Android应用漏洞Wiki
+二、公司测试文档
+- 绿盟Android安全测试指南
+- 奇安信Android安全测试指南
+- 知道创宇Android安全测试指南
+- 平安科技Android应用漏洞Wiki
 
 ## 03-Adnroid安全工具
 
@@ -76,4 +78,10 @@
 
 ## 05-Adnroid逆向工程
 
+一、代码混淆
+
+二、逆向分析
+
 ## 06-Adnroid安全老师
+
+[![Stargazers over time](https://starchart.cc//APKTeam/AndroidSecurity.svg)](https://starchart.cc/APKTeam/AndroidSecurity)
