@@ -1,36 +1,79 @@
-# 《Android安全测试与安全研究》
+# Android安全测试与安全研究
 
-本项目是记录自己在学习Adnroid移动安全领域遇到的内容，包括优秀的项目或代码等。
+![](https://socialify.git.ci/APKTeam/AndroidSecurity/image?description=1&font=Inter&forks=1&issues=1&name=1&owner=1&pattern=Floating%20Cogs&pulls=1&stargazers=1&theme=Light)
 
-本项目创建于2021年7月17日，最近的一次更新时间为2022年6月8日。
+本项目是记录自己在学习Adnroid移动安全领域遇到的内容，包括优秀的项目或代码等。打破Android的安全壁垒，直至封神！向安迪致敬！作者：[0e0w](https://github.com/0e0w)
 
-- https://github.com/Ralireza/Android-Security-Teryaagh
-- https://github.com/Simp1er/AndroidSec
-- https://github.com/mamenglong/ADBWIFIDEBUG
-- https://github.com/plain-dev/ADBWiFi
-- https://github.com/feicong/jni_helper
-- https://github.com/heyhu/AndroidReverseStudy
-- https://github.com/facebook/mariana-trench
-- https://github.com/niranjan94/show-java
-- https://github.com/kenny67/AndroidReverseEngineering
-- https://github.com/aszx826477/AnnhubBS
-- https://github.com/dqzg12300/MikRom
-- https://github.com/dqzg12300/FartExt
-- https://github.com/dqzg12300/MikManager
-- https://github.com/topjohnwu/Magisk
-- https://github.com/Ba-hub/R3verseBug
-- https://github.com/hehonghui/mmat
-- https://github.com/weixinbao/ReverseTool
-- https://github.com/virjarRatel/ratel-core
-- https://github.com/iBotPeaches/Apktool
-- https://github.com/APKLab/APKLab
-- https://github.com/Konloch/bytecode-viewer
-- https://github.com/WuFengXue/android-reverse
-- https://github.com/AndnixSH/APKSignReader-Java
-- https://github.com/allenymt/PrivacySentry
-- https://github.com/TheKingOfDuck/ApkAnalyser
-- https://github.com/saucer-man/apkinfo
-- https://www.freebuf.com/articles/es/329563.html
-- https://github.com/Mocha-L/QuJing
-- https://github.com/maddiestone/AndroidAppRE
-- https://github.com/dingxiangtech/dx-signer
+本项目创建于2021年7月17日，最近的一次更新时间为2022年6月17日。
+
+- [01-Adnroid安全资源]()
+- [02-Adnroid安全测试]()
+- [03-Adnroid安全工具]()
+- [04-Adnroid越狱研究]()
+- [05-Adnroid逆向工程]()
+- [06-Adnroid安全老师]()
+
+## 01-Adnroid安全资源
+
+一、Android安全书籍
+
+二、Android视频课程
+
+三、Android培训演讲
+
+四、Android专利文献
+
+五、Android论坛版块
+
+六、Android漏洞程序
+
+七、Android其他资源
+- [ ] https://github.com/Ralireza/Android-Security-Teryaagh
+- [ ] https://github.com/Simp1er/AndroidSec
+- [ ] https://github.com/mamenglong/ADBWIFIDEBUG
+- [ ] https://github.com/plain-dev/ADBWiFi
+- [ ] https://github.com/feicong/jni_helper
+- [ ] https://github.com/heyhu/AndroidReverseStudy
+- [ ] https://github.com/facebook/mariana-trench
+- [ ] https://github.com/niranjan94/show-java
+- [ ] https://github.com/kenny67/AndroidReverseEngineering
+- [ ] https://github.com/aszx826477/AnnhubBS
+- [ ] https://github.com/dqzg12300/MikRom
+- [ ] https://github.com/dqzg12300/FartExt
+- [ ] https://github.com/dqzg12300/MikManager
+- [ ] https://github.com/topjohnwu/Magisk
+- [ ] https://github.com/Ba-hub/R3verseBug
+- [ ] https://github.com/hehonghui/mmat
+- [ ] https://github.com/weixinbao/ReverseTool
+- [ ] https://github.com/virjarRatel/ratel-core
+- [ ] https://github.com/iBotPeaches/Apktool
+- [ ] https://github.com/APKLab/APKLab
+- [ ] https://github.com/Konloch/bytecode-viewer
+- [ ] https://github.com/WuFengXue/android-reverse
+- [ ] https://github.com/AndnixSH/APKSignReader-Java
+- [ ] https://github.com/allenymt/PrivacySentry
+- [ ] https://github.com/TheKingOfDuck/ApkAnalyser
+- [ ] https://github.com/saucer-man/apkinfo
+- [ ] https://www.freebuf.com/articles/es/329563.html
+- [ ] https://github.com/Mocha-L/QuJing
+- [ ] https://github.com/maddiestone/AndroidAppRE
+- [ ] https://github.com/dingxiangtech/dx-signer
+- [ ] https://github.com/sho-luv/mavs
+
+## 02-Adnroid安全测试
+
+一、绿盟Android安全测试指南
+
+二、奇安信Android安全测试指南
+
+三、知道创宇Android安全测试指南
+
+四、平安科技Android应用漏洞Wiki
+
+## 03-Adnroid安全工具
+
+## 04-Adnroid越狱研究
+
+## 05-Adnroid逆向工程
+
+## 06-Adnroid安全老师
