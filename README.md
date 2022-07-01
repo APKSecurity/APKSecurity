@@ -4,7 +4,7 @@
 
 本项目是记录自己在学习Adnroid移动安全领域遇到的内容，包括优秀的项目或代码等。打破Android的安全壁垒，直至封神！向安迪致敬！作者：[0e0w](https://github.com/0e0w)
 
-本项目创建于2021年7月17日，最近的一次更新时间为2022年6月20日。
+本项目创建于2021年7月17日，最近的一次更新时间为2022年7月1日。
 
 - [01-Adnroid安全资源]()
 - [02-Adnroid安全测试]()
@@ -61,6 +61,7 @@
 - [ ] https://github.com/maddiestone/AndroidAppRE
 - [ ] https://github.com/dingxiangtech/dx-signer
 - [ ] https://github.com/sho-luv/mavs
+- [ ] https://www.secpulse.com/archives/181685.html
 
 ## 02-Adnroid安全测试
 
@@ -73,6 +74,9 @@
 - 平安科技Android应用漏洞Wiki
 
 ## 03-Adnroid安全工具
+
+- https://github.com/kelvinBen/AppInfoScanner
+- https://github.com/20000s/android-detector
 
 ## 04-Adnroid越狱研究
 
