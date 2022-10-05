@@ -63,6 +63,7 @@
 - [ ] https://github.com/sho-luv/mavs
 - [ ] https://www.secpulse.com/archives/181685.html
 - [ ] https://github.com/Meituan-Dianping/lyrebird
+- [ ] https://github.com/hahwul/MobileHackersWeapons
 
 ## 02-Android安全测试
 
