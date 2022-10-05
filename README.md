@@ -2,18 +2,18 @@
 
 ![](https://socialify.git.ci/APKTeam/AndroidSecurity/image?description=1&font=Inter&forks=1&issues=1&name=1&owner=1&pattern=Floating%20Cogs&pulls=1&stargazers=1&theme=Light)
 
-本项目是记录自己在学习Adnroid移动安全领域遇到的内容，包括优秀的项目或代码等。打破Android的安全壁垒，直至封神！向安迪致敬！作者：[0e0w](https://github.com/0e0w)
+本项目是记录自己在学习Android移动安全领域遇到的内容，包括优秀的项目或代码等。打破Android的安全壁垒，直至封神！向安迪致敬！作者：[0e0w](https://github.com/0e0w)
 
-本项目创建于2021年7月17日，最近的一次更新时间为2022年8月22日。
+本项目创建于2021年7月17日，最近的一次更新时间为2022年10月5日。
 
-- [01-Adnroid安全资源]()
-- [02-Adnroid安全测试]()
-- [03-Adnroid安全工具]()
-- [04-Adnroid越狱研究]()
-- [05-Adnroid逆向工程]()
-- [06-Adnroid安全老师]()
+- [01-Android安全资源]()
+- [02-Android安全测试]()
+- [03-Android安全工具]()
+- [04-Android越狱研究]()
+- [05-Android逆向工程]()
+- [06-Android安全老师]()
 
-## 01-Adnroid安全资源
+## 01-Android安全资源
 
 一、Android安全书籍
 
@@ -64,7 +64,7 @@
 - [ ] https://www.secpulse.com/archives/181685.html
 - [ ] https://github.com/Meituan-Dianping/lyrebird
 
-## 02-Adnroid安全测试
+## 02-Android安全测试
 
 一、测试项目汇总
 
@@ -74,7 +74,7 @@
 - 知道创宇Android安全测试指南
 - 平安科技Android应用漏洞Wiki
 
-## 03-Adnroid安全工具
+## 03-Android安全工具
 
 - https://github.com/kelvinBen/AppInfoScanner
 - https://github.com/20000s/android-detector
@@ -89,10 +89,11 @@
 - https://github.com/themalwarenews/Garuda
 - https://github.com/axhlzy/UnpackShellScripts
 - https://github.com/hanbinglengyue/FART
+- https://github.com/vincentcox/StaCoAn
 
-## 04-Adnroid越狱研究
+## 04-Android越狱研究
 
-## 05-Adnroid逆向工程
+## 05-Android逆向工程
 
 - https://github.com/liaoguobao/TweakMe
 
@@ -100,6 +101,6 @@
 
 二、逆向分析
 
-## 06-Adnroid安全老师
+## 06-Android安全老师
 
 [![Stargazers over time](https://starchart.cc//APKTeam/AndroidSecurity.svg)](https://starchart.cc/APKTeam/AndroidSecurity)
