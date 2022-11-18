@@ -4,7 +4,7 @@
 
 本项目是记录自己在学习Android移动安全领域遇到的内容，包括优秀的项目或代码等。打破Android的安全壁垒，直至封神！向安迪致敬！作者：[0e0w](https://github.com/0e0w)
 
-本项目创建于2021年7月17日，最近的一次更新时间为2022年11月9日。
+本项目创建于2021年7月17日，最近的一次更新时间为2022年11月19日。
 
 - [01-Android安全资源]()
 - [02-Android安全测试]()
@@ -67,6 +67,7 @@
 - [ ] https://github.com/shankybnl/MobileAutomationFramework
 - [ ] https://github.com/sulab999/AppMessenger
 - [ ] https://github.com/WindXaa/Android-Vulnerability-Mining
+- [ ] https://github.com/mzfr/slicer
 
 ## 02-Android安全测试
 
