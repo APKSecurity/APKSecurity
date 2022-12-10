@@ -1,10 +1,10 @@
-# Android安全测试与安全研究
+# Android安全研究
 
 ![](https://socialify.git.ci/APKTeam/AndroidSecurity/image?description=1&font=Inter&forks=1&issues=1&name=1&owner=1&pattern=Floating%20Cogs&pulls=1&stargazers=1&theme=Light)
 
 本项目是记录自己在学习Android移动安全领域遇到的内容，包括优秀的项目或代码等。打破Android的安全壁垒，直至封神！向安迪致敬！作者：[0e0w](https://github.com/0e0w)
 
-本项目创建于2021年7月17日，最近的一次更新时间为2022年11月19日。
+本项目创建于2021年7月17日，最近的一次更新时间为2022年12月10日。
 
 - [01-Android安全资源]()
 - [02-Android安全测试]()
@@ -68,6 +68,7 @@
 - [ ] https://github.com/sulab999/AppMessenger
 - [ ] https://github.com/WindXaa/Android-Vulnerability-Mining
 - [ ] https://github.com/mzfr/slicer
+- [ ] https://github.com/M31N99/Mobile-Security-Checklist
 
 ## 02-Android安全测试
 
@@ -99,6 +100,11 @@
 - https://github.com/SmartPack/PackageManager
 - https://github.com/bytedance/appshark
 - https://github.com/gwen001/apk-analyzer
+- https://github.com/androguard/androguard
+- https://github.com/honeynet/apkinspector
+- https://github.com/wrlu/SecMobile
+- https://github.com/yangchong211/YCToolLib
+- https://github.com/REAndroid/APKEditor
 
 ## 04-Android越狱研究
 
