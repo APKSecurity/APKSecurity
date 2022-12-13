@@ -80,6 +80,7 @@
 - [ ] https://github.com/WindXaa/Android-Vulnerability-Mining
 - [ ] https://github.com/mzfr/slicer
 - [ ] https://github.com/M31N99/Mobile-Security-Checklist
+- [ ] https://github.com/ByteHackr/AwesomeMobilePentest
 
 ## 02-Android安全测试
 
