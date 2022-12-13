@@ -4,7 +4,7 @@
 
 本项目是记录自己在学习Android移动安全领域遇到的内容，包括优秀的项目或代码等。打破Android的安全壁垒，直至封神！向安迪致敬！作者：[0e0w](https://github.com/0e0w)
 
-本项目创建于2021年7月17日，最近的一次更新时间为2022年12月12日。
+本项目创建于2021年7月17日，最近的一次更新时间为2022年12月13日。
 
 - [01-Android安全资源](https://github.com/APKTeam/APKSecurity#01-android%E5%AE%89%E5%85%A8%E8%B5%84%E6%BA%90)
 - [02-Android安全测试](https://github.com/APKTeam/APKSecurity#02-android%E5%AE%89%E5%85%A8%E6%B5%8B%E8%AF%95)
@@ -19,6 +19,15 @@
 ## 01-Android安全资源
 
 一、Android安全书籍
+- [ ] [《Android安全测试与安全研究》](https://github.com/APKTeam/AndroidSecurity)@0e0w
+- [ ] [《Android应用安全测试与防护》](https://item.jd.com/12661107.html)@何能强等
+- [ ] [《Android移动安全攻防实战》](https://item.jd.com/13718842.html)@叶绍琛等
+- [ ] [《Android软件安全权威指南》](https://item.jd.com/12522178.html)@丰生强
+- [ ] [《Android软件安全与逆向分析》](https://item.jd.com/11186337.html)@丰生强
+- [ ] [《Android应用安全实战》](https://item.jd.com/13717138.html)@李岳阳
+- [ ] [《Android安全攻防实践》](https://item.jd.com/29225352253.html)@李骏译
+- [ ] [《Android应用安全防护和逆向分析》](https://item.jd.com/10066651768015.html)@姜维
+- [ ] [《Android系统安全和反编译实战》](https://item.jd.com/10058229849240.html)@刘云等
 
 二、Android视频课程
 
@@ -29,7 +38,6 @@
 五、Android国家标准
 
 六、Android论坛版块
-
 - https://www.52pojie.cn
 
 七、Android其他资源
@@ -92,7 +100,6 @@
 二、抓包工具
 
 九、其他工具
-
 - https://github.com/kelvinBen/AppInfoScanner
 - https://github.com/20000s/android-detector
 - https://github.com/sh4hin/Androl4b
