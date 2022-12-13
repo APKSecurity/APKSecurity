@@ -81,6 +81,9 @@
 - [ ] https://github.com/mzfr/slicer
 - [ ] https://github.com/M31N99/Mobile-Security-Checklist
 - [ ] https://github.com/ByteHackr/AwesomeMobilePentest
+- [ ] https://github.com/ym2011/MobileApplicationPenetrationTesting
+- [ ] https://github.com/mirfansulaiman/Command-Mobile-Penetration-Testing-Cheatsheet
+- [ ] https://github.com/wieerwill/MobilePenBerry
 
 ## 02-Android安全测试
 
@@ -140,6 +143,8 @@
 ## 08-Android病毒分析
 
 - Android漏洞程序
+- https://github.com/romanzaikin/ITsafe_Mobile_Penetration
+- https://github.com/prateek147/DVIA-v2
 
 ## 09-Android安全产品
 
