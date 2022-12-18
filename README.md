@@ -4,7 +4,7 @@
 
 本项目是记录自己在学习Android移动安全领域遇到的内容，包括优秀的项目或代码等。打破Android的安全壁垒，直至封神！向安迪致敬！作者：[0e0w](https://github.com/0e0w)
 
-本项目创建于2021年7月17日，最近的一次更新时间为2022年12月17日。
+本项目创建于2021年7月17日，最近的一次更新时间为2022年12月18日。
 
 - [01-Android安全资源](https://github.com/APKTeam/APKSecurity#01-android%E5%AE%89%E5%85%A8%E8%B5%84%E6%BA%90)
 - [02-Android安全测试](https://github.com/APKTeam/APKSecurity#02-android%E5%AE%89%E5%85%A8%E6%B5%8B%E8%AF%95)
@@ -102,34 +102,48 @@
 一、综合工具
 
 二、抓包工具
-
-- https://github.com/r0ysue/r0capture
+- [ ] https://github.com/r0ysue/r0capture
 
 九、其他工具
-- https://github.com/kelvinBen/AppInfoScanner
-- https://github.com/20000s/android-detector
-- https://github.com/sh4hin/Androl4b
-- https://github.com/mzlogin/awesome-adb
-- https://github.com/cxf-boluo/magisk_All
-- https://github.com/rev1si0n/lamda
-- https://github.com/HelloKittyNII/soot-android-static-analysis
-- https://github.com/CalebFenton/simplify
-- https://github.com/zxvzxv/ApkParse
-- https://github.com/HadesNull123/AndroidHooking
-- https://github.com/themalwarenews/Garuda
-- https://github.com/axhlzy/UnpackShellScripts
-- https://github.com/hanbinglengyue/FART
-- https://github.com/vincentcox/StaCoAn
-- https://github.com/ernw/AndroTickler
-- https://github.com/SmartPack/PackageManager
-- https://github.com/bytedance/appshark
-- https://github.com/gwen001/apk-analyzer
-- https://github.com/androguard/androguard
-- https://github.com/honeynet/apkinspector
-- https://github.com/wrlu/SecMobile
-- https://github.com/yangchong211/YCToolLib
-- https://github.com/REAndroid/APKEditor
-- https://github.com/CreditTone/hooker
+- [ ] https://github.com/ax/apk.sh
+- [ ] https://ibotpeaches.github.io/Apktool
+- [ ] https://github.com/kelvinBen/AppInfoScanner
+- [ ] https://github.com/20000s/android-detector
+- [ ] https://github.com/sh4hin/Androl4b
+- [ ] https://github.com/mzlogin/awesome-adb
+- [ ] https://github.com/cxf-boluo/magisk_All
+- [ ] https://github.com/rev1si0n/lamda
+- [ ] https://github.com/HelloKittyNII/soot-android-static-analysis
+- [ ] https://github.com/CalebFenton/simplify
+- [ ] https://github.com/zxvzxv/ApkParse
+- [ ] https://github.com/HadesNull123/AndroidHooking
+- [ ] https://github.com/themalwarenews/Garuda
+- [ ] https://github.com/axhlzy/UnpackShellScripts
+- [ ] https://github.com/hanbinglengyue/FART
+- [ ] https://github.com/vincentcox/StaCoAn
+- [ ] https://github.com/ernw/AndroTickler
+- [ ] https://github.com/SmartPack/PackageManager
+- [ ] https://github.com/bytedance/appshark
+- [ ] https://github.com/gwen001/apk-analyzer
+- [ ] https://github.com/androguard/androguard
+- [ ] https://github.com/honeynet/apkinspector
+- [ ] https://github.com/wrlu/SecMobile
+- [ ] https://github.com/yangchong211/YCToolLib
+- [ ] https://github.com/REAndroid/APKEditor
+- [ ] https://github.com/CreditTone/hooker
+- [ ] https://github.com/dwisiswant0/apkleaks
+- [ ] https://github.com/WithSecureLabs/drozer
+- [ ] https://github.com/Genymobile/scrcpy
+- [ ] https://github.com/nfcgate/nfcgate
+- [ ] https://github.com/iBotPeaches/Apktool
+- [ ] https://www.pnfsoftware.com/jeb/
+- [ ] https://github.com/androguard/androguard
+- [ ] https://github.com/muellerberndt/apkx
+- [ ] https://github.com/bytedance/btrace
+- [ ] https://github.com/Konloch/bytecode-viewer
+- [ ] https://github.com/pxb1988/dex2jar
+- [ ] https://github.com/java-decompiler/jd-gui
+- [ ] https://github.com/mstrobel/procyon
 
 ## 05-Android加壳脱壳
 
