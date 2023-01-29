@@ -4,7 +4,7 @@
 
 本项目是记录自己在学习Android移动安全领域遇到的内容，包括优秀的项目或代码等。打破Android的安全壁垒，直至封神！向安迪致敬！作者：[0e0w](https://github.com/0e0w)
 
-本项目创建于2021年7月17日，最近的一次更新时间为2023年1月4日。
+本项目创建于2021年7月17日，最近的一次更新时间为2023年1月29日。
 
 - [01-Android安全资源](https://github.com/APKTeam/APKSecurity#01-android%E5%AE%89%E5%85%A8%E8%B5%84%E6%BA%90)
 - [02-Android安全测试](https://github.com/APKTeam/APKSecurity#02-android%E5%AE%89%E5%85%A8%E6%B5%8B%E8%AF%95)
@@ -157,6 +157,14 @@
 - [ ] https://github.com/zhuotong/Android_InlineHook
 - [ ] https://github.com/tegal1337/CiLocks
 - [ ] https://github.com/simplepeng/HeGuiChecker
+- [ ] https://github.com/ensody/androidmanifest-changer
+- [ ] https://github.com/codeskyblue/apkdig
+- [ ] https://github.com/jakubd/apkreport
+- [ ] https://github.com/attacker-codeninja/apkron
+- [ ] https://github.com/follyxing/appfile-info
+- [ ] https://github.com/MCeley/bitrise-step-zipalign-apk
+- [ ] https://github.com/wunderwuzzi23/appheist
+- [ ] https://github.com/kamushadenes/apkrash
 
 ## 05-Android加壳脱壳
 
