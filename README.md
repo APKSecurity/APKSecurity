@@ -167,6 +167,7 @@
 - [ ] https://github.com/kamushadenes/apkrash
 - [ ] https://github.com/githubXiaowangzi/NP-Manager
 - [ ] https://github.com/phplaber/canine
+- [ ] https://github.com/SeeFlowerX/estrace
 
 ## 05-Android加壳脱壳
 
