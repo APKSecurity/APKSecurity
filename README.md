@@ -175,6 +175,7 @@
 - [ ] https://github.com/githubXiaowangzi/NP-Manager
 - [ ] https://github.com/phplaber/canine
 - [ ] https://github.com/SeeFlowerX/estrace
+- [ ] https://github.com/abcz316/linuxKernelRoot
 
 ## 05-Android加壳脱壳
 
